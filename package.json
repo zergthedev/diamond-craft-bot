@@ -1,0 +1,22 @@
+{
+  "name": "diamond-craft-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zergthedev/diamond-craft-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zergthedev/diamond-craft-bot/issues"
+  },
+  "homepage": "https://github.com/zergthedev/diamond-craft-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
