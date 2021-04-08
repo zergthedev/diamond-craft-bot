@@ -15,7 +15,7 @@ client.on('message', message =>{
 	// say
 	if(command === 'test'){
 		//
-		const embed = Discord.MessageEmbed()
+		const embed = new Discord.MessageEmbed()
 		//
 		.setTitle('Test')
 		.setDescription(':white_check_mark: JÁ ŽIJU!')
